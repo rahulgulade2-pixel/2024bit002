@@ -1,1 +1,1 @@
-# 2024bit002
+# Java practicle
